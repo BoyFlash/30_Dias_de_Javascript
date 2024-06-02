@@ -5,4 +5,4 @@
 
 | Desafio dia 01 | Desafio dia 02 |
 | :---: | :---: |
-| [![Dia 01](url)](pasta) | [![Dia 02](img)](pas) |
+| [![Dia 01](https://raw.githubusercontent.com/BoyFlash/30_Dias_de_Javascript/main/Dia_01/img/clock.png)](https://github.com/BoyFlash/30_Dias_de_Javascript/tree/main/Dia_01) | [![Dia 02](img)](pas) |
