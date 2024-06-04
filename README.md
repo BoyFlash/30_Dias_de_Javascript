@@ -13,4 +13,5 @@
 git clone https://github.com/BoyFlash/30_Dias_de_Javascript.git
 ```
 Execute o HTML abrindo o arquivo index.html no navegador.
+
 Será necessário abrir seu navegador e acessar: `http://localhost:5500/`
