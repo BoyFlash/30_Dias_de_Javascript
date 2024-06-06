@@ -34,4 +34,10 @@ body {
    margin: 2px;
    background: #111111;
    box-shadow: 0 0 2px #fff;
+   transition: 2s ease;
+}
+
+
+square:hover {
+   transition-duration: 0s;
 }

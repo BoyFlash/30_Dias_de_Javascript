@@ -1,4 +1,4 @@
-# 30 Dias de JavaScript
+# 30 Dias de JavaScript.
 
 
 [Playlist JavaScript](https://www.youtube.com/watch?v=5m5lY8-5Eq0&list=PLR5-OPMtjCw0ZmE1gbSRrLFhZpvTZ7xf8)
